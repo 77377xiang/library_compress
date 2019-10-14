@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--root-path path  sdcard path : 保存文件的跟目录 name:  随便起 -->
+<!-- root-path path ="Android/data/包名/cache/camera"  name = "file_path" -->
+ <resources>
+    <paths>
+        <root-path path =""  name = "camera_photos"/>
+    </paths>
+</resources>
